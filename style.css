@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  border: border-box;
+}
+
+body {
+  background-color: #36384d;
+}
+
+.main-container {
+  background-color: #ffffff;
+  padding: 20px;
+}
